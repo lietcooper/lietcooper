@@ -1,4 +1,6 @@
-## Hi there 👋
+![github_header1](https://github.com/user-attachments/assets/468d6dcd-c4ee-4ffb-8881-e0b6e6dd3310)
+
+## Hi folks! 👋
 
 <!--
 **lietcooper/lietcooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Lijun Wan and you may call me Lite! I’m a self-motivated software engineer specializing in backend development, large-scale systems, and cloud infrastructure. As an SDE intern, I’ve built and shipped Spring Boot microservices, configured CI/CD pipelines in Azure DevOps, and improved test coverage and reliability in real-world production environments.
+
+I’m currently pursuing an MS in Computer Science at Northeastern University, focusing on distributed systems and intelligent agents. I enjoy designing services that are reliable, observable, and maintainable.
+
+Welcome to connect! [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e616f061-27c9-40f5-a1d6-a93cb2f93fcc" />](https://www.linkedin.com/in/lijun-wan)
+
+### Leetcode
+I like solving problems everyday and learning new algorithms! I also share unique solutions to some problems and received many viewerships! Practice with me and grow stronger together! [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/11386d5c-9bfe-452b-bf3b-d7be5b12c839" />](https://leetcode.com/u/wanlijun2002/)
