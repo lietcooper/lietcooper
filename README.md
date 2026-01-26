@@ -27,4 +27,4 @@ Welcome to connect! [<img width="20" height="20" alt="image" src="https://github
 I like solving problems everyday and learning new algorithms! I also share unique solutions to some problems and received many viewerships! Practice with me and grow stronger together! [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/11386d5c-9bfe-452b-bf3b-d7be5b12c839" />](https://leetcode.com/u/wanlijun2002/)
 
 ### Open Source
-I am also developing to make open source contributions. Here is my first [project](https://central.sonatype.com/artifact/io.github.lietcooper/jduration) published at Maven Central, and I will continue seeking more participation in the community!
+I am also developing to make open source contributions. Here is my [project](https://central.sonatype.com/artifact/io.github.lietcooper/jduration) published at Maven Central and a [Docker image](https://hub.docker.com/r/lietcooper/calctl?uuid=40f57b49-e72f-4875-af02-8c1a87111223), and I will continue seeking more participation in the community!
