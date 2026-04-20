@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lijun Wan and you may call me Lite! I’m a self-motivated software engineer specializing in backend development, large-scale systems, and cloud infrastructure. As an SDE intern, I’ve built and shipped Spring Boot microservices, configured CI/CD pipelines in Azure DevOps, and improved test coverage and reliability in real-world production environments.
+My name is Lijun Wan and you may call me Lite! I’m a self-motivated software engineer specializing in backend development, distributed systems, and cloud infrastructure. At Tech@Crossroad, I engineered an agentic RAG pipeline for course equivalency search using LlamaIndex and FastAPI. As an SDE intern at Tellhow Software, I built high-performance microservices using Spring Cloud Gateway and gRPC, optimizing CI/CD pipelines in Azure DevOps to reduce release times.
 
-I’m currently pursuing an MS in Computer Science at Northeastern University, focusing on distributed systems and intelligent agents. I enjoy designing services that are reliable, observable, and maintainable.
+I’m currently pursuing an MS in Computer Science at Northeastern University, focusing on distributed systems and high-performance programming. I enjoy leveraging technologies like Kubernetes, Prometheus, and gRPC to design services that are scalable, observable, and maintainable. You can watch a demo of my latest agent project [here](https://drive.google.com/file/d/1pCE80QGfuSrxDEYJONAX81lWtqsEU9yv/view)!
 
 Welcome to connect! [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e616f061-27c9-40f5-a1d6-a93cb2f93fcc" />](https://www.linkedin.com/in/lijun-wan)
 
